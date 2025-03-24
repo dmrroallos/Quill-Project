@@ -125,3 +125,14 @@ ul {
     color: #9775fa
 }
 
+.testing {
+    background-color: green;
+    border-radius: 12px;
+    padding: 6px 15px;
+    padding-bottom: 6px;
+}
+
+.link {
+    padding: 6px 15px;
+    padding-bottom: 10px;
+}
